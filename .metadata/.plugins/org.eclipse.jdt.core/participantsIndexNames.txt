@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-C:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3442645091.index
-\DBtest\src
-C:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3574712536.index
-\DBtest\src
-C:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3196674582.index
-\FileUpLoad\src
