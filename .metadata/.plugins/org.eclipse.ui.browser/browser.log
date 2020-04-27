@@ -1,0 +1,14 @@
+
+4월 23, 2020 17:32:16.92 NEW SESSION
+4월 23, 2020 17:32:16.92 [6032:6188:0423/173216.919:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+4월 24, 2020 12:12:43.84 NEW SESSION
+4월 24, 2020 12:12:43.84 [5000:2008:0424/121243.804:ERROR:browser_switcher_service.cc(238)] XXX Init()
+4월 24, 2020 12:14:22.04 [5556:5332:0424/121422.048:ERROR:browser_switcher_service.cc(238)] XXX Init()
+4월 24, 2020 12:50:13.71 [3500:1004:0424/125013.709:ERROR:browser_switcher_service.cc(238)] XXX Init()
+4월 24, 2020 12:50:31.69 [6416:6420:0424/125031.691:ERROR:browser_switcher_service.cc(238)] XXX Init()
+4월 24, 2020 12:51:49.18 [5456:5332:0424/125149.180:ERROR:browser_switcher_service.cc(238)] XXX Init()
+4월 24, 2020 12:52:25.22 [6164:4140:0424/125225.220:ERROR:browser_switcher_service.cc(238)] XXX Init()
+4월 24, 2020 15:10:04.20 [5424:7516:0424/151004.203:ERROR:browser_switcher_service.cc(238)] XXX Init()
+4월 24, 2020 15:15:34.46 [7692:7932:0424/151534.461:ERROR:browser_switcher_service.cc(238)] XXX Init()
+4월 24, 2020 15:15:35.75 [7692:2476:0424/151535.752:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2

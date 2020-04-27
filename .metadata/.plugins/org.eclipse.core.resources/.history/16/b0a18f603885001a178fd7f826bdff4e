@@ -1,0 +1,25 @@
+<%@page import = "java.sql.*"%>
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"
+
+    page import = "java.naming.*"
+    %>
+<%@page import = "javax.sql.*" %>
+<%
+	Connection conn = null;
+	
+	try{
+		Context init = new Init
+	}
+%>
+    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>
